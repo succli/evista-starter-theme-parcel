@@ -1,0 +1,11 @@
+{
+  "name": "evista/evista-starter-theme-parcel",
+  "type": "wordpress-theme",
+  "homepage": "http://digital-agency.co/",
+  "licence": "GPLv3",
+  "description": "Evista Starter Theme with Parcel Bundler",
+  "keywords": ["theme", "evista"],
+  "require": {
+    "johnpbloch/wordpress": "^4.9"
+  }
+}
